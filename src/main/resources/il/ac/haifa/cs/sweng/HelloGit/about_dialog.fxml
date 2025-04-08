@@ -19,11 +19,10 @@
 		</font>
 	</Label>
 	<Label text="Hi there , We are using Git ! ! !">Tarek
-	<Label>faridehhh1</Label>
 		<font>
 			<Font size="31.0" />
 		</font>
 	</Label>
-
+	<Label>faridehhh1</Label>
 </VBox>
 
